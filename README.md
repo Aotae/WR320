@@ -4,7 +4,7 @@
 ## Audience: Non-specialist students i.e. have never touched git before / non-cs students.
 ---
 
-> ```The Audience requires non-technical vocab and little to no jargon; if jargon is used, it should be followed with an explanation of what that jargon means. The Audience’s interests should be how to use GitHub efficiently so that they can cooperate with a technical team (programmers/cs-students) when working in groups. The instruction set is to be clear and concise so that anyone from any cultural background and/or educational background can understand the steps to use GitHub.```
+> The Audience requires non-technical vocab and little to no jargon; if jargon is used, it should be followed with an explanation of what that jargon means. The Audience’s interests should be how to use GitHub efficiently so that they can cooperate with a technical team (programmers/cs-students) when working in groups. The instruction set is to be clear and concise so that anyone from any cultural background and/or educational background can understand the steps to use GitHub.
 ---
 # Instructions on how to get started with GitHub
 ##### By: Nathan Pang, for Writing 320 at the University of Oregon 
