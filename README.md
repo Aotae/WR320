@@ -10,32 +10,42 @@
 ---
 
 ### Intro:
-
+---
 GitHub and Git in general is a great way to collaborate with teammates on projects of all sizes big and small. This guide will help you get started in a quick and efficient manner for beginners. Other uses for GitHub are under the "Uses and Helpful Information" tab at the end of the document for your perusal. 
 
 ### Step 1: Create a GitHub account:
-
+---
 In order to get started, you must create a GitHub account if you don't have one. Go to github.com and click on the "Sign up" button. Follow the prompts to create a new account, which will require you to provide a username, email address, and password.
 
 ### Step 2: Create a new repository
-
-With your new GitHub account, you can now create a new repository, a repository is a central location in which your data and code can stored and managed. Click on the "+" icon in the top right corner of the GitHub dashboard and select "New repository" from the drop-down menu. Give your repository a name and a brief description, and select whether you want the repository to be public or private. For demonstration purposes choose public. Then click the "Create repository" button.
+---
+With your new GitHub account, you can now create a new repository, a repository is a central location in which your data and code can stored and managed.
+- Click on the "+" icon in the top right corner of the GitHub dashboard and select "New repository" from the drop-down menu.
+- Give your repository a name and a brief description, and select whether you want the repository to be public or private. For demonstration purposes choose public.
+- Then click the "Create repository" button.
 
 
 ### Step 3: Set up the repository
-
+---
 Once you have created the repository, you need to set it up. You will see a page with instructions on how to set up your repository with Git. You can either follow those instructions or skip them if you don't plan to use Git.
 
 ### Step 4: Adding files to the repository  
+---
+To add files to your repository, you can either upload files directly to GitHub or use a Git client to push files to your repository. 
+- To upload files directly to GitHub, click the "Add file" button and select "Upload files." You can then drag and drop files from your computer or browse for files to upload. Once you have uploaded your files, you can commit your changes by adding a commit message and clicking the "Commit changes" button.
 
-To add files to your repository, you can either upload files directly to GitHub or use a Git client to push files to your repository. To upload files directly to GitHub, click the "Add file" button and select "Upload files." You can then drag and drop files from your computer or browse for files to upload. Once you have uploaded your files, you can commit your changes by adding a commit message and clicking the "Commit changes" button.
-
-### Step 5: Manage the repository
-
-You can manage your repository using the GitHub interface. You can edit files, create branches, and merge changes from other contributors. To edit a file, click on the file in the repository and click the "Edit" button. You can then make changes to the file and commit your changes. To create a new branch, click the "Branch" button and enter a name for the branch. You can then make changes to the branch without affecting the main branch. To merge changes from other contributors, you can create a pull request and review the changes before merging them into the main branch.
+###  Step 5: Manage the repository
+---
+You can manage your repository using the GitHub interface. You can edit files, create branches, and merge changes from other contributors.
+- To edit a file, click on the file in the repository and click the "Edit" button. You can then make changes to the file and commit your changes.
+- To create a new branch, click the "Branch" button and enter a name for the branch. You can then make changes to the branch without affecting the main branch.
+- To merge changes from other contributors, you can create a pull request and review the changes before merging them into the main branch.
 
 ### Step 6: Collaborate with others/ Add Group Members
-One of the main benefits of using GitHub is collaboration. You can invite other people to contribute to your repository by adding them as collaborators. To do this, go to the repository settings and click on the "Collaborators" tab. You can then enter the GitHub usernames of the people you want to invite as collaborators. Once they accept the invitation, they can contribute to your repository by making changes to files and creating pull requests.
+---
+One of the main benefits of using GitHub is collaboration. You can invite other people to contribute to your repository by adding them as collaborators. To do this,
+- Go to the repository settings and click on the "Collaborators" tab.
+- You can then enter the GitHub usernames of the people you want to invite as collaborators. Once they accept the invitation, they can contribute to your repository by making changes to files and creating pull requests.
 
 # Uses and helpful information
 
