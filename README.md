@@ -19,7 +19,7 @@ In order to get started, you must create a GitHub account if you don't have one.
 
 ### Step 2: Create a new repository
 
-With your new GitHub account, you can now create a new repository. Click on the "+" icon in the top right corner of the GitHub dashboard and select "New repository" from the drop-down menu. Give your repository a name and a brief description, and select whether you want the repository to be public or private. For demonstration purposes choose public. Then click the "Create repository" button.
+With your new GitHub account, you can now create a new repository, a repository is a central location in which your data and code can stored and managed. Click on the "+" icon in the top right corner of the GitHub dashboard and select "New repository" from the drop-down menu. Give your repository a name and a brief description, and select whether you want the repository to be public or private. For demonstration purposes choose public. Then click the "Create repository" button.
 
 
 ### Step 3: Set up the repository
