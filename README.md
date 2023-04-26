@@ -54,9 +54,9 @@ GitHub also provides tools for creating and hosting documentation for your proje
 ### Stay organized with project boards
 
 GitHub also offers project boards to help you stay organized and keep track of tasks related to your project. You can create a project board by clicking on the "Projects" tab and clicking the "Create a project" button. You can then add columns to the project board to represent different stages of your project, such as "To do," "In progress," and "Completed." You can then add cards to each column to represent tasks or issues related to your project.
----
+
 # Conclusion
----
+
 GitHub is just one of many ways for a User to use git and while this tutorial may help you get started with setting up your first repository it hasn't covered how to use git from the command line which is the premier way of using git in the software development world. There are other solutions such as Graphical User Interfaces in the form of Desktop Applications which can also use git to interface with GitHub or your repository service of choice. Some that I would recommend include gitkraken and GitHub Desktop other repository solutions you might come across are things like bitbucket or gitlab. None of these things are covered in this tutorial but I encourage you to look into these with your new found knowledge on how to use GitHub from a Web Client.
 
 
