@@ -8,7 +8,6 @@
 # Instructions on how to get started with GitHub
 ##### By: Nathan Pang, for Writing 320 at the University of Oregon 
 ##### Instructor: Tom Tasker
----
 
 ### Intro:
 ---
